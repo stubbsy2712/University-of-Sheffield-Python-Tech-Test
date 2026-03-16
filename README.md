@@ -5,7 +5,7 @@
 
 ### To run API (Task 2):
 - To run API (Task 2): Install flask if not already installed: `pip3 install flask`
-- `python .\CreateAndResetData.py`.
+- `python .\API.py`.
 - When run locally the endpoints are on port 5000 (of localhost), and consist of:
 - `/customers/{customer_id}` to see customer data
 - `/customers/{customer_id}/orders` to see data on the customers orders
