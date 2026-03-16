@@ -1,0 +1,4 @@
+order id,customer id,customer name,customer email,product name,order quantity,unit price,order total price,order time
+1,1,Test Customer,testEmail,product 1,1,10,10,2026-03-16 16:13:07
+2,1,Test Customer,testEmail,screws,4,25,100,2026-03-16 16:13:07
+3,1,Test Customer,testEmail,misc,5,5,25,2026-03-16 16:13:07
