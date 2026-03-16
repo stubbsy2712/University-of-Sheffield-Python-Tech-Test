@@ -36,5 +36,5 @@ The email addresses used in the table are invalid, this is deliberate as I don't
 
 ## Potential improvements
 - If this were a more "serious" API, MySQL would have been used as opposed to SQLite, which would have necessitated a .env file which would then need to be gitignored, possibly an ORM too such as SQLAlchemy and Alembic.
-- Perhaps a better URL than "full" could have been in order.
+- Perhaps a better URL than "/full" could have been used for the requested endpoint in Task 2.
 - In a bigger project email addresses should be validated, but also accessible test email addresses should be provisioned to be used there.
