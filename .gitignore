@@ -1,3 +1,2 @@
-./orders
-./orders/*
+orders
 db.sqlite
